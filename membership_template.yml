@@ -1,0 +1,9 @@
+# Description of group memberships
+AD_GROUP_NAME_1:
+    - AD_USER_CN_1
+    - AD_USER_CN_2
+    - AD_USER_CN_3
+AD_GROUP_NAME_2:
+    - AD_USER_CN_4
+    - AD_USER_CN_5
+    
